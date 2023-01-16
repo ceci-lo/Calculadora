@@ -1,0 +1,15 @@
+.color_display {
+  background-color: grey;
+}
+.tabla {
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
+}
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: auto;
+}
