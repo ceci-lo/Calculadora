@@ -16,6 +16,7 @@ div {
   font-family: "Inconsolata", monospace;
   font-family: "Space Mono", monospace;
   background-color: rgba(161, 120, 6);
+  color: rgba(252, 232, 179);
 }
 .color_display {
   padding-top: 5px;
